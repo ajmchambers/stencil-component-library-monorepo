@@ -15,7 +15,7 @@
   "types": "dist/types/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/initial-stencil-component/initial-stencil-component.js",
+  "unpkg": "dist/stencil-component-library/stencil-component-library.js",
   "directories": {
     "src": "./src"
   },
