@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lerna": "lerna",
+    "build": "lerna exec build",
+    "build:core": "lerna exec --scope @ajmchambers/stencil-component-library -- npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +21,7 @@
   },
   "homepage": "https://github.com/ajmchambers/stencil-component-library-monorepo#readme",
   "devDependencies": {
-    "lerna": "^3.19.0"
+    "lerna": "^3.19.0",
+    "@stencil/core": "^1.3.3"
   }
 }

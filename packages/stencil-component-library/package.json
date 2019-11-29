@@ -17,8 +17,7 @@
   "collection:main": "dist/collection/index.js",
   "unpkg": "dist/initial-stencil-component/initial-stencil-component.js",
   "directories": {
-    "lib": "lib",
-    "test": "__tests__"
+    "src": "./src"
   },
   "files": [
     "dist/",
