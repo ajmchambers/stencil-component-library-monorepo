@@ -1,0 +1,23 @@
+{
+  "name": "stencil-component-library-monorepo",
+  "version": "1.0.0",
+  "description": "attempt to create a stencil monorepo with core stencil and react/angular bindings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajmchambers/stencil-component-library-monorepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajmchambers/stencil-component-library-monorepo/issues"
+  },
+  "homepage": "https://github.com/ajmchambers/stencil-component-library-monorepo#readme",
+  "devDependencies": {
+    "lerna": "^3.19.0"
+  }
+}
