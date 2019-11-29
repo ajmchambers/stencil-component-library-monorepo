@@ -4,6 +4,7 @@
   "description": "attempt to create a stencil monorepo with core stencil and react/angular bindings",
   "main": "index.js",
   "scripts": {
+    "lerna": "lerna",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
