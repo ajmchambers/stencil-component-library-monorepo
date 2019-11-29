@@ -30,5 +30,3 @@ export class MyComponent {
     return <div>Hello, World! I'm {this.getText()}</div>;
   }
 }
-
-tweaking
